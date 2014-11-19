@@ -21,7 +21,7 @@
   ],
   "preserve_paths": [
     "CouchbaseLite.framework",
-    "CouchbaseLiteListener.framework",
+    "CouchbaseLiteListener.framework"
   ],
   "name": "couchbase-lite-ios",
   "vendored_frameworks": [
