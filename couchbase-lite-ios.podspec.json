@@ -35,7 +35,7 @@
   },
   "public_header_files": [
     "CouchbaseLite.framework/Headers/*.h",
-    "CouchbaseLiteListner.framework/Headers/*.h"
+    "CouchbaseLiteListner.framework/Headers/*.h",
     "Extras/*.h"
   ],
   "summary": "Couchbase Lite is an embedded lightweight, document-oriented (NoSQL), syncable database engine.",
